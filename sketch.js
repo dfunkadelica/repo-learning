@@ -1,5 +1,5 @@
 //hahahahaha i'm naichen
-
+//hahhahahhahaah !!!!!!!
 //console image from http://1.bp.blogspot.com/-nB3o9GgWUI8/VEqYhuiFWMI/AAAAAAAAEx4/ISeJTI-2MDg/s1600/Launching.jpg
 //fish
 var schoolSize = 25;
